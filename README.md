@@ -24,6 +24,7 @@
 
 ## Research & Search
 
+- **[Yila AI](https://yila.ai)** — Academic research agent built on Eve for grounded literature reviews, sandboxed data analysis, scientific figures, and editable manuscripts.
 - **[Deep Search Agent](https://agentcn.vercel.app/docs/agents/eve/deep-search)** — Agent that researches a question, evaluates its own findings, and iterates until the answer is complete and cited.
 - **[Docs Expert Agent](https://agentcn.vercel.app/docs/agents/eve/docs-expert)** — Agent that answers questions about libraries and APIs by searching the live web and citing sources.
 - **[AI SEO Audit Agent](https://agentcn.vercel.app/docs/agents/eve/ai-seo-audit)** — Agent that fetches a page through context.dev and scores its readability to AI answer engines across six categories, returning failing checks and an agent-ready fix prompt.
